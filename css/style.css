@@ -139,6 +139,10 @@ div.announceblock {
     font-weight: normal;
 }
 
+.compact-margin-top {
+    margin-top: 10px
+}
+
 .main-content footer {
     margin-top: 20px;
     text-align: right;
