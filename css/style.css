@@ -175,6 +175,15 @@ div.announceblock {
     list-style-type: square;
 }
 
+.circle-list {
+    padding-left: 1.5em;
+}
+
+.circle-list li {
+    padding-bottom: 0.26em;
+    list-style-type: circle;
+}
+
 .enum-list {
     padding-left: 0px;
 }
